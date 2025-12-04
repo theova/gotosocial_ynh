@@ -18,7 +18,7 @@ license = "AGPL-3.0-only"
 website = "https://gotosocial.org/"
 admindoc = "https://docs.gotosocial.org/en/latest/"
 userdoc = "https://docs.gotosocial.org/en/latest/"
-code = "https://github.com/superseriousbusiness/gotosocial"
+code = "https://codeberg.org/superseriousbusiness/gotosocial"
 
 [integration]
 yunohost = ">= 11.2.6"
